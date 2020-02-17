@@ -1,2 +1,3 @@
 # xlsToCsv
-This script converts excel files to CSV
+
+This is the package to convert any excel file into csv
